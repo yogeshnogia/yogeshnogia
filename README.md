@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Software Developer
 -------------------------
 
-I have been in web development for over 6 years now. My expertise lies in MERN stack development.
+I have been in web development for over 8 years now. My expertise lies in the Architecting Applications, Deployment, and managing Teams.
 
-* 🌍  I'm based in Pune, India
-* 🖥️  See my portfolio at [My Resume](http://yogeshnogia.space)
-* ✉️  You can contact me at [yogeshnogia@gmail.com](mailto:yogeshnogia@gmail.com)
+* 🌍  I'm based in Jaipur, India, handling offices in Jaipur & Delhi.
+* 🖥️  See my portfolio at [My Work](https://tej.life/work)
+* ✉️  You can contact me at [yogesh@tej.life](mailto:yogesh@tej.life)
 * 🚀  I'm currently working on [Tej.life](http://tej.life)
 * 🧠  I'm learning kubernetes nodejs microservices
 * ⚡  An entrepreneur, self-starter, able to balance quality, delivery, and focus, as well as an excellent communicator with a hands-on approach to business.
