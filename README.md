@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yogesh Nogia
 ====================================================================================================================================
 
-Senior Software Developer
+Senior Software Architect
 -------------------------
 
 I have been in web development for over 8 years now. My expertise lies in the Architecting Applications, Deployment, and managing Teams.
@@ -10,7 +10,7 @@ I have been in web development for over 8 years now. My expertise lies in the Ar
 * 🖥️  See my portfolio at [My Work](https://tej.life/work)
 * ✉️  You can contact me at [yogesh@tej.life](mailto:yogesh@tej.life)
 * 🚀  I'm currently working on [Tej.life](http://tej.life)
-* 🧠  I'm learning kubernetes nodejs microservices
+* 🧠  I'm learning Kubernetes nodejs microservices
 * ⚡  An entrepreneur, self-starter, able to balance quality, delivery, and focus, as well as an excellent communicator with a hands-on approach to business.
 
 <a href="https://www.twitter.com/yogeshnogia" target="_blank" rel="noreferrer"><img
