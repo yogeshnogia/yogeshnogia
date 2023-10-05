@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Software Architect
 -------------------------
 
-I have been in web development for over 8 years now. My expertise lies in the Architecting Applications, Deployment, and managing Teams.
+I have been in the tech industry for over 10 years now. My expertise lies in the Architecting Applications, Deployment, and managing Teams.
 
 * 🌍  I'm based in Jaipur, India, handling offices in Jaipur & Delhi.
 * 🖥️  See my portfolio at [My Work](https://tej.life/work)
 * ✉️  You can contact me at [yogesh@tej.life](mailto:yogesh@tej.life)
 * 🚀  I'm currently working on [Tej.life](http://tej.life)
 * 🧠  I'm learning Kubernetes nodejs microservices
-* ⚡  An entrepreneur, self-starter, able to balance quality, delivery, and focus, as well as an excellent communicator with a hands-on approach to business.
+* ⚡  An entrepreneur, self-starter, able to balance quality, delivery, and focus, and an excellent communicator with a hands-on approach to business.
 
 <a href="https://www.twitter.com/yogeshnogia" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/yogeshnogia?logo=twitter&style=for-the-badge&color=64748b&labelColor=000000"
