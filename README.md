@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yogesh Nogia
 ====================================================================================================================================
 
-Senior Software Architect
+Founder & Entrepreneur
 -------------------------
 
-I have been in the tech industry for over 10 years now. My expertise lies in the Architecting Applications, Deployment, and managing Teams.
+I have been in the tech industry for over 10 years now. My expertise lies in Architecting Applications, Deployment, and Managing Teams. I am currently running my company along with the best developers at Tej.Life
 
 * 🌍  I'm based in Jaipur, India, handling offices in Jaipur & Delhi.
 * 🖥️  See my portfolio at [My Work](https://tej.life/work)
