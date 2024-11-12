@@ -6,11 +6,10 @@ Founder & Entrepreneur
 
 I have been in the tech industry for over 10 years now. My expertise lies in Architecting Applications, Deployment, and Managing Teams. I am currently running my company along with the best developers at Tej.Life
 
-* 🌍  I'm based in Jaipur, India, handling offices in Jaipur & Delhi.
-* 🖥️  See my portfolio at [My Work](https://tej.life/work)
-* ✉️  You can contact me at [yogesh@tej.life](mailto:yogesh@tej.life)
-* 🚀  I'm currently working on [Tej.life](http://tej.life)
-* 🧠  I'm learning Kubernetes nodejs microservices
+* 🌍  I'm based in Pune, India, handling Eventbeep as a CTO.
+* ✉️  You can contact me at [yogesh.nogia@eventbeep.com](mailto:yogesh.nogia@eventbeep.com)
+* 🚀  I'm currently working on [Eventbeep](http://eventbeep.com)
+* 🧠  I'm working on Micro-services, kubernetes & Scalable solutions. 
 * ⚡  An entrepreneur, self-starter, able to balance quality, delivery, and focus, and an excellent communicator with a hands-on approach to business.
 
 <a href="https://www.twitter.com/yogeshnogia" target="_blank" rel="noreferrer"><img
